@@ -1,0 +1,142 @@
+body{
+margin: 0px;
+}
+
+.container{
+position: absolute;
+width:100%;
+height:100%;
+
+}
+
+.menu{
+	position:absolute;
+	width:100%;
+	height:50px;
+	background-color:#3366ff;
+}
+
+#btn1{
+  background-color: #3366ff;
+  width: 100%;
+  color: white;
+  height: 100%;
+  border-radius: 25px 0px 25px 0px;
+  border-color: #0040ff;
+  text-align: center;
+  font-size: 16px;
+  font-family: arial;
+  font-weight: bold;
+}
+
+
+ #btn2{
+  background-color: #3366ff;
+  width: 100%;
+  color: white;
+  height: 100%;
+  border-radius: 25px 0px 25px 0px;
+   border-color: #0040ff;
+  text-align: center;
+  font-size: 16px;
+  font-family: arial;
+  font-weight: bold;
+}
+
+#btn3{
+  background-color: #3366ff;
+  width: 100%;
+  color: white;
+  height: 100%;
+  border-radius: 25px 0px 25px 0px;
+  border-color: #0040ff;
+  text-align: center;
+  font-size: 16px;
+  font-family: arial;
+  font-weight: bold;
+}
+
+table{
+  top: 105px;
+  width: 100%;
+  height: 100%;
+}
+
+footer{
+  position: absolute;
+  background-color:#3366ff;
+  width: 100%;
+  height:50px;
+  top:1250px;
+}
+
+h1{
+  font-family:arial;
+  font-size: 24px;
+  color: white;
+  text-align: justify;
+  margin-left: 80px;
+}
+
+.conteudo_1{
+  position: absolute;
+  width: 100%;
+  height:600px;
+  top:50px;
+}
+
+.conteudo_2{
+  position: absolute;
+  width: 100%;
+  height:600px;
+  top:650px;
+}
+
+.conteudo_3{
+  position: absolute;
+  width: 100%;
+  height:600px;
+  top:1250px;
+}
+
+.conteudo_4{
+  position: absolute;
+  width: 100%;
+  height:600px;
+  top:1850px;
+}
+img{
+  height:80%;
+  width:100%;
+  margin-top:21%;
+  border-radius: 45px 0px 45px 0px;
+}
+
+p{
+  font-family: Courier New;
+  font-size: 25px;
+  color: black;
+}
+
+h2{
+  font-family: Courier New;
+  font-size: 45px;
+  color: black;
+  text-align: justify;
+}
+
+h3{
+ font-family: arial;
+  font-size: 30px;
+  color: black;
+  text-align: justify;
+  font-weight: bold;
+}
+
+.tablemenu{
+border:0.5px solid black;
+text-align: center;
+font-family: Arial;
+height: 50px;
+width: 100%;
+}
